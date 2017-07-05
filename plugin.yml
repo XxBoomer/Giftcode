@@ -1,0 +1,17 @@
+name: GiftCode
+author: ["XxBoomer"]
+version: 1.0
+description: This plugin for server !!!
+main: XxBoomer\GiftCode
+api: 2.0.0
+commands:
+  gift:
+    usage: /gift <get|reload>
+    description: "Gift code for your little members !!!"
+permissions:
+  giftcode.member:
+    default: true
+    description: "Người chơi có thể sử dụng code"
+  giftcode:
+    default: op
+    description: "OP có thể reload plugins ?"
