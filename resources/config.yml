@@ -1,0 +1,29 @@
+# List of random items for the plugin to choose from; Format: ID:Damage:Amount
+Items:
+- "295:0:1"
+- "458:0:1"
+- "364:0:1"
+- "265:0:1"
+- "391:0:1"
+- "392:0:1"
+- "360:0:1"
+- "263:0:1"
+- "6:0:1"
+- "297:0:1"
+- "352:0:1"
+- "35:0:1"
+Code:
+    - 1
+    - FMLigB419T4BM3V
+    - FML6GOL295GUB51
+money: 1000
+# THIS IS CONFIG FILE FOR PLUGIN. PLEASE NOT USE "1" BECAUSE IT HAVE ERROR
+#       y888886     
+#     8888           
+#    8888         
+#    8888         
+#    8888         
+#    8888
+#     q888 
+#       888888b
+# THANKS FOR DOWNLOAD AND TEST MY PLUGIN. SPECIAL THANKS TO LDX RANDOMITEM!
